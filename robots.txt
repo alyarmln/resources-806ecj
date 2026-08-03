@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alyarmln.github.io/resources-806ecj/sitemap.xml
